@@ -94,3 +94,10 @@ This project is **for educational purposes only** and is **not intended for medi
 ## Author
 
 AI/ML project exploring applications of **Small Language Models in healthcare AI**.
+## Live Demo
+
+Try the AI Medical Symptom Checker here:
+
+🔗 Hugging Face Demo:
+https://huggingface.co/spaces/shc17/medical-symptom-checker-slm
+
